@@ -1,0 +1,10 @@
+Main class Instance : LoggingService@574caa3f
+AnotherClass Instance : LoggingService@574caa3f
+Main class Instance : LoggingService@574caa3f
+AnotherClass Instance : LoggingService@574caa3f
+Main class Instance : LoggingService@5acf9800
+AnotherClass Instance : LoggingService@5acf9800
+Main class Instance : LoggingService@5acf9800
+AnotherClass Instance : LoggingService@5acf9800
+Main class Instance : LoggingService@5acf9800
+AnotherClass Instance : LoggingService@5acf9800
